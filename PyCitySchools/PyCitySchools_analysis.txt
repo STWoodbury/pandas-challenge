@@ -1,0 +1,34 @@
+Final Conclusions
+
+When examining school performance with these datasets, the following become clear:
+
+   1. The district performs better in reading than math on average.
+   
+   2. The schools in the district vary widely in makeup. Budgets range by up to \$77 (11.8\% of the maximum) per student and school sizes range by up to 4549 students.
+    
+   3. The top five schools skew the district average upward, as they perform approximately 25\% above district average, compared with the approximately 11-13\% below average performance of the bottom five schools.
+   
+   4. Grade level shows no notable effect on performance among students in the same school.
+   
+   5. Budget shows an inverse relationship to school performance.
+   
+   6. Schools above 2000 students show a significant drop in student performance.
+   
+   7. Charter Schools show a significantly higer performance than district schools.
+   
+Other Considerations:
+
+School Type Performance:
+
+While school type shows the largest gap in student performance as measured by \% overall passing, when compared with average student population of each type, it raises the possibility that average student population is the causal factor here(Charter schools have an average student population of ~1500 vs the ~3800 students enrolled in the average District school). To draw causal conclusions, further examination may be required.
+
+Confounding Variables:
+
+There are several confounding variables not included in the datasets that may skew this analysis and are worthy of consideration when drawing conclusions from the above analysis. This includes (among others):
+    
+    1. Demographic Information
+    2. Class Size
+    3. Budget Allocation
+    4. School Facilities
+
+Further study would be necessary to determine causal relationships in light of these variables among others, however the correlations listed in this analysis may be useful to determine the focus of these studies.  
