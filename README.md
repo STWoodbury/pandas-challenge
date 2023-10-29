@@ -1,6 +1,6 @@
 # PyCity Schools Analysis:
 
-The [PyCitySchools_final.ipynb](PyCitySchools/#PyCitySchools_final.ipynb) notebook examines the success rate of schools across one district to determine the effects of various factors upon student reading, math, and overall performance metrics. 
+The [PyCitySchools_final.ipynb](#PyCitySchools/PyCitySchools_final.ipynb) notebook examines the success rate of schools across one district to determine the effects of various factors upon student reading, math, and overall performance metrics. 
 
 **1. District Summary** - Here, we establish a benchmark of the average performace and metrics across all 15 schools in the district as a comparison point for the subsequent analyses.  
 
